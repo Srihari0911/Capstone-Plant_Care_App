@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294546939972",
+    "firebase_url": "https://bloom-buddy-4bd36-default-rtdb.firebaseio.com",
+    "project_id": "bloom-buddy-4bd36",
+    "storage_bucket": "bloom-buddy-4bd36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294546939972:android:9cbe082b780cb8c17f9c11",
+        "android_client_info": {
+          "package_name": "com.example.bloom_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294546939972-0tmmsjfkh59pjfup42pg8a2jq53n2el8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloom_buddy",
+            "certificate_hash": "5e0a1203203a2e03db8c10059e5f88714c634dfe"
+          }
+        },
+        {
+          "client_id": "294546939972-blkg0j8613dll5r6mq9ilbqloasjg00t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynD2JhW6pldyNHLXQvCMsRBPm6WncQwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294546939972-blkg0j8613dll5r6mq9ilbqloasjg00t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
